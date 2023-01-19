@@ -11,3 +11,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+This repository contains 2 contracts for deployment of BEP-20 token
+One token has been deployed to 0xDF823730CC7CCA5D39B2CB007D02717792fA60D4 (BSC Testnet)
